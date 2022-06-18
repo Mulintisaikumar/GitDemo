@@ -1,0 +1,24 @@
+2022-04-29 17:32:17,895 :INFO :test_login :information ststement
+2022-04-29 17:32:17,895 :WARNING :test_login :Something is warning mode
+2022-04-29 17:32:17,896 :ERROR :test_login :A major has happend
+2022-04-29 17:32:17,896 :CRITICAL :test_login :critical issue
+2022-04-29 17:35:14,733 :DEBUG :test_login :A debud statement is executed
+2022-04-29 17:35:14,733 :INFO :test_login :information ststement
+2022-04-29 17:35:14,734 :WARNING :test_login :Something is warning mode
+2022-04-29 17:35:14,734 :ERROR :test_login :A major has happend
+2022-04-29 17:35:14,736 :CRITICAL :test_login :critical issue
+2022-04-29 18:28:12,408 :DEBUG :test_login :A debud statement is executed
+2022-04-29 18:28:12,408 :INFO :test_login :information ststement
+2022-04-29 18:28:12,408 :WARNING :test_login :Something is warning mode
+2022-04-29 18:28:12,408 :ERROR :test_login :A major has happend
+2022-04-29 18:28:12,408 :CRITICAL :test_login :critical issue
+2022-04-29 18:36:06,351 :DEBUG :test_login :A debud statement is executed
+2022-04-29 18:36:06,352 :INFO :test_login :information ststement
+2022-04-29 18:36:06,352 :WARNING :test_login :Something is warning mode
+2022-04-29 18:36:06,352 :ERROR :test_login :A major has happend
+2022-04-29 18:36:06,352 :CRITICAL :test_login :critical issue
+2022-05-25 12:31:32,710 :DEBUG :test_login :A debud statement is executed
+2022-05-25 12:31:32,710 :INFO :test_login :information ststement
+2022-05-25 12:31:32,710 :WARNING :test_login :Something is warning mode
+2022-05-25 12:31:32,710 :ERROR :test_login :A major has happend
+2022-05-25 12:31:32,710 :CRITICAL :test_login :critical issue
