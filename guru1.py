@@ -7,8 +7,8 @@ from selenium.webdriver import ActionChains
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 
-s = Service("C:\\chromedriver.exe")
-driver = webdriver.Chrome(service=s)
+driver = webdriver.Chrome()
+
 driver.maximize_window()
 driver.get("https://www.demo.guru99.com/V4/")
 
